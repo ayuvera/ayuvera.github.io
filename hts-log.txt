@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 25 Jan 2021 13:57:58 at https://yutixcode.xyz/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://yutixcode.xyz/ -O1 "C:\Users\konchils\Desktop\test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:58:06	Error: 	"Not Found" (404) at link https://yutixcode.xyz/icon/css/style.css (from https://yutixcode.xyz/)
+13:58:11	Error: 	"Not Found" (404) at link https://yutixcode.xyz/assets/fonts/nucleo.svg (from https://yutixcode.xyz/assets/css/nucleo-icons.css)
+13:58:11	Error: 	"Not Found" (404) at link https://yutixcode.xyz/popper.js (from https://yutixcode.xyz/assets/js/core/bootstrap.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 seconds : 35 links scanned, 31 files written (3809952 bytes overall) [3012806 bytes received at 231754 bytes/sec], 1037894 bytes transferred using HTTP compression in 17 files, ratio 21%, 7.0 requests per connection
+(3 errors, 0 warnings, 0 messages)
